@@ -1,0 +1,20 @@
+{
+  "name": "preview-gallery",
+  "version": "5.5.5",
+  "author": "Aleks Rukhmanov <aleksei.rukhmanov@gmx.de>",
+  "peerDependencies": {
+    "@angular/common": "^13.1.0",
+    "@angular/core": "^13.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "license": "MIT",
+  "description": "Angular library for previewing photos before uploading",
+  "keywords": [
+    "angular",
+    "foto",
+    "image",
+    "preview"
+  ]
+}
